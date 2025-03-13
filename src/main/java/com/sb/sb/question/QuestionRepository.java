@@ -1,4 +1,4 @@
-package com.sb.sb;
+package com.sb.sb.question;
 
 import java.util.List;
 
